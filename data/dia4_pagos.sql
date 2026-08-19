@@ -1,4 +1,4 @@
-USE test_hotel_management;
+USE hotel_management_db;
 
 -- PAGOS
 INSERT INTO PAGO (id_pago, fecha_pago, monto, metodo_pago, RESERVA_id_reserva, EMPLEADO_id_empleado) VALUES (1, '2025-02-16', 120.27, 'Tarjeta', 50, 41);

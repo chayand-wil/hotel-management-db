@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS hotel_management;
-USE hotel_management;
+CREATE DATABASE IF NOT EXISTS hotel_management_db;
+USE hotel_management_db;
 
 -- Tabla CLIENTE
 CREATE TABLE IF NOT EXISTS CLIENTE (

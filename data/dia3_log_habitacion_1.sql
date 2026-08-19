@@ -1,4 +1,4 @@
-USE test_hotel_management;
+USE hotel_management_db;
 
 -- LOG_HABITACION 1
 INSERT INTO LOG_HABITACION (HABITACION_id_habitacion, status, timestamp) VALUES (11, 'Limpieza', '2025-02-01 17:53:00');

@@ -1,4 +1,4 @@
-USE test_hotel_management;
+USE hotel_management_db;
 
 -- CLIENTES
 INSERT INTO CLIENTE (id_cliente, nombre, correo, telefono) VALUES (1, 'Macaria Jovita Crespi Tovar', 'macaria.tovar58@yahoo.com', '59125425');

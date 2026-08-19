@@ -1,4 +1,4 @@
-USE test_hotel_management;
+USE hotel_management_db;
 
 -- RESERVAS
 INSERT INTO RESERVA (id_reserva, fecha_entrada, fecha_salida, CLIENTE_id_cliente, HABITACION_id_habitacion) VALUES (1, '2025-01-16', '2025-01-23', 29, 50);
